@@ -19,9 +19,9 @@ Egy modern, grafikus felülettel ellátott Windows csomagkezelő segédprogram, 
 
 Ez a szkript azért született, hogy egy picit könnyebb legyen a programpark karbantartása/használata stb.
 
-A szkriptet nem teljesen saját kútfőből írtam, a kód tartalmaz AI generált sorokat is, ezt vedd figyelembe mindenképp!
+# A szkriptet nem teljesen saját kútfőből írtam, a kód tartalmaz AI generált sorokat is, ezt vedd figyelembe mindenképp!
 
-Mi a fenének csináltam? Minek van fent a GitHubon?
+## Mi a fenének csináltam? Minek van fent a GitHubon?
 
 Az egész lényege az, hogy ha valaki hasonló "hasznos" eszközt keresne, ami egyszerű de nagyszerű, és könnyen modifikálható legyen, azonban semmit nem konyít a szkript íráshoz (vagy nem akar bajlódni vele), annak itt legyen ez a valami, mint egy vázlat. Létezik azonban egy olyan verzió, ami egyszerre kezel offline telepítést is, mellette egy winget lehetőséggel. Mivel már én sem vagyok mai "gyerek", én még abból az időből származom, ahol volt EGY pendrive. A PENDRIVE. Amin minden ott volt, ami kellett egy friss reinstall után. Driverek, programok, dolgok amik nélkül egy értelmezhetetlen idegenkedést váltott ki belőled a saját géped használata. Persze most már olyan Win telepítő szkripteket csinálhatsz amilyet akarsz, mint ahogy az is, ez is csak egy opció, kinek mi a kényelmes alapjogon.
 Sőt ezen felül még arra is képes, hogy a programlistában szereplő programok alapján a legfrissebbet húzza le, és azt Te manuálisan feltolhatod egy pendrive-ra, mindazok mellett hogy ez elég melós folyamat tud lenni (szituációtól függően), itt lép színre a winget. Képes vagy vele gyorsan "karbantartani", ez pl tök hasznos amikor egy Windows reinstall után vagy, és kellenének AZOK AZ ESZKÖZÖK amik nélkül nem tudsz élni, aztán ha már ráérsz, a szkripten belül lehúzod magadnak a programlistában szereplő programokból a legfrissebb exéket, feltolod a pendrive-ra, és készen is vagy. Ezt a verziót EGYELŐRE nem szándékozom megosztani a nagyközönséggel, és amúgy is, ide profi programozók járnak fel, az ilyen kontárok mint én, csak egy kisebb anomália ebben a rendszerbe. Remélem, hogy cserébe aki hasznosnak találja a szkriptet, neki be fog válni.
@@ -30,7 +30,7 @@ Nincs itt buymeacoffe link, nincs itt semmilyen kunyera. Amennyiben tetszik hasz
 winget search 7zip
 Nyilván a Name az magáért beszél, neked az ID lesz a lényeges, és a Version. Egyszerűen elkezded szerkeszteni a listát a benne lévő séma alapján, és voila, meg is vagy! Innentől kezdve a szkriptben benne lesz az a program, ami elérhető winget-en keresztül is. Ha valamiben nem vagy biztos, azt érdemes ellenőrizni.
 
-Miért a winget? Miért nem valami más, mondjuk Chocolatey?
+## Miért a winget? Miért nem valami más, mondjuk Chocolatey?
 
 Mert ez jutott eszembe.
 
@@ -60,3 +60,4 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 
 SOFTWARE.
+
