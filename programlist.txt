@@ -1,0 +1,25 @@
+﻿7-Zip | 7zip.7zip | Villámgyors fájltömörítő és kicsomagoló
+AnyDesk | AnyDeskSoftwareGmbH.AnyDesk | Távoli asztali elérés és segítségnyújtás
+balenaEtcher | Balena.Etcher | SD kártya és pendrive flashelő szoftver
+Calibre | KovidGoyal.Calibre | Átfogó e-könyv menedzser és olvasó
+Google Chrome | Google.Chrome | A Google gyors és népszerű böngészője
+OnlyOffice Desktop | OnlyOffice.DesktopEditors | OnlyOffice asztali dokumentumszerkesztő
+Discord | Discord.Discord | Csevegő, hang és videóhívás közösségeknek
+Double Commander | DoubleCommand.DoubleCommander | Nyílt forrású kétpaneles fájlkezelő
+Mozilla Firefox | Mozilla.Firefox | Megbízható és privát Mozilla böngésző
+Flow Launcher | Flow-Launcher.Flow-Launcher | Gyorskereső és produktivitási indítópanel
+foobar2000 | PeterPawlowski.foobar2000 | Minimalista, de bivalyerős zenelejátszó
+Heroic Games Launcher | HeroicGamesLauncher.HeroicGamesLauncher | Epic Games és GOG kliens (nyílt forrású)
+KDE Connect | KDE.KDEConnect | Telefon és PC közötti szinkronizáció, egy jó alternatívája a Windows beépített telefon kapcsolatára
+LibreOffice | TheDocumentFoundation.LibreOffice | Ingyenes, teljes értékű irodai csomag
+LibreWolf | LibreWolf.LibreWolf | Firefox alapú, maximális biztonságú böngésző
+LocalSend | LocalSend.LocalSend | Helyi hálózatos fájlküldő (minden platformra)
+OBS Studio | obsproject.obs-studio | Professzionális videófelvétel és streaming
+qBittorrent | qBittorrent.qBittorrent | Reklámmentes, nyílt forrású torrent kliens
+Rufus | PeteBatard.Rufus | Bootolható pendrive készítő eszköz
+Spotify | Spotify.Spotify | A világ legnépszerűbb zenei streaming szolgáltatása
+Steam | Valve.Steam | A legnagyobb PC-s játékáruház és közösségi platform
+Total Commander | Ghisler.TotalCommander | A klasszikus kétpaneles fájlkezelő (Shareware)
+VLC Media Player | VideoLAN.VLC | Minden videóformátumot ismerő lejátszó
+Waterfox | Waterfox.Waterfox | Sebességre optimalizált Firefox variáns
+FreeTube | FreeTube.FreeTube | Privát YouTube kliens (Privacy fókusz)
